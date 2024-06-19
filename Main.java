@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ *      Name: Cynthia Xu
+ *      Email: xu568@wisc.edu
+ *      CS account username: cynthiax
  */
 import java.util.*;
 
